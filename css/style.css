@@ -7,9 +7,13 @@
 /* === Form Typography === */ 
 
 body {
-	text-align: center; 
 	font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif; 
 } 
+
+.contact_form{
+	position: relative;
+	left: 250px;
+}
 
 .contact_form h2, .contact_form label { 
 	font-family: Georgia, Times, "Times New Roman", serif; 
@@ -194,3 +198,8 @@ button.submit:active {
 }
 
 /* By Camilo*/
+
+.foto{
+	position: relative;
+	left: 300px;
+}
