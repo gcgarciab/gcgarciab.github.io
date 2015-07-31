@@ -202,8 +202,8 @@ button.submit:active {
 /* By Camilo*/
 
 .foto{
-	position: relative;
-	left: 500px;
+	text-align: center;
+	padding: 20px;
 }
 
 .titulo{
@@ -212,5 +212,7 @@ button.submit:active {
 }
 
 .perfil{
+	padding: 20px;
+	margin: 50px;
 	font-style: italic;
 }
