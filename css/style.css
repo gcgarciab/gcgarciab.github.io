@@ -6,7 +6,8 @@
 
 /* === Form Typography === */ 
 
-body { 
+body {
+	text-align: center; 
 	font: 14px/21px "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif; 
 } 
 
@@ -193,7 +194,3 @@ button.submit:active {
 }
 
 /* By Camilo*/
-
-.container{
-	text-align: center;
-}
