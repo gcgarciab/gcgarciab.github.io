@@ -201,5 +201,11 @@ button.submit:active {
 
 .foto{
 	position: relative;
-	left: 300px;
+	left: 500px;
+}
+
+.titulo{
+	display: block;
+	text-align: center;
+	padding: 20px;
 }
